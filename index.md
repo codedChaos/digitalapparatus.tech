@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# io.digitalapparatus.tech Wiki
 
-You can use the [editor on GitHub](https://github.com/devopsmyth/digitalapparatus.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Public domain repo for publishing GitHub pages
+<div style="text-align: left;"><img src="new-da-logo-blue_orange.png" height=320 width=410 style="float: left; margin-right: 0px; margin-left: -50px"></div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Table-Of-Contents
+* Table of Contents
+* Links[[#links][#Links]]
+**testing out publishing pages via markdown to GitHub...**
 
-### Markdown
+&nbsp;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devopsmyth/digitalapparatus.tech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Links
+[#Links][]
+[#Images][]
