@@ -11,5 +11,6 @@ Public domain repo for publishing GitHub pages
 &nbsp;
 
 ### Links
+[io.digitalapparatus.tech wiki](https://io.digitalapparatus.tech)
 [#Links][]
 [#Images][]
